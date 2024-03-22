@@ -8,4 +8,3 @@ My Portfolio Website Built With Tailwind CSS
 
 # Credits
 - https://tailwindtemplates.co/templates/shine
-spam
